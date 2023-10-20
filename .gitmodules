@@ -1,3 +1,6 @@
 [submodule "blockmiui"]
 	path = blockmiui
 	url = https://github.com/Block-Network/blockmiui.git
+[submodule "TARGET_FOLDER"]
+	path = TARGET_FOLDER
+	url = git://github.com/Block-Network/blockmiui.git
