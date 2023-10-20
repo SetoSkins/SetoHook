@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_appbar_light">#f5aab9</color>
+    <color name="pink_primary_light">#bd6678</color>
+    <color name="pink_secondary_light">#ae5d6d</color>
+    <color name="blue">#0d84ff</color>
+    <color name="pink_primary_dark">#ffe6f1</color>
+
+    <color name="color_primary_light">@android:color/system_accent1_500</color>
+        <color name="color_primary_variant_light">@android:color/system_accent2_500</color>
+        <color name="color_secondary_light">@android:color/system_accent1_600</color>
+        <color name="color_secondary_variant_light">@android:color/system_accent2_600</color>
+        <color name="color_surface_light">@android:color/system_neutral1_50</color>
+        <color name="color_background_floating_light">@android:color/system_neutral1_50</color>
+
+        <color name="color_primary_dark">@android:color/system_accent1_500</color>
+        <color name="color_primary_variant_dark">@android:color/system_accent1_200</color>
+        <color name="color_secondary_dark">@android:color/system_accent1_300</color>
+        <color name="color_secondary_variant_dark">@android:color/system_accent1_300</color>
+        <color name="color_surface_dark">@android:color/system_neutral1_900</color>
+        <color name="color_background_floating_dark">@android:color/system_neutral1_800</color>
+
+        <color name="ic_launcher_background">@android:color/system_accent1_300</color>
+    <color name="ic_launcher_background2">#F48FB1</color>
+        <color name="ic_launcher_foreground">#FFFFFF</color>
+    </resources>

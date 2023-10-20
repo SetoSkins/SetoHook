@@ -1,0 +1,164 @@
+<resources>
+
+    <string name="app_name" >SetoHook</string>
+    <string name="xposed_description">Fuck Miui！</string>
+    <string name="tips">提示</string>
+    <string name="warning">警告</string>
+    <string name="error">错误</string>
+    <string name="not_support">您似乎正在使用过时的 LSPosed 版本或 LSPosed 未激活，请更新 LSPosed 或者激活后再试。</string>
+    <string name="done">确定</string>
+    <string name="Splash_Tips">注意！模块大部分功能仅适用于Miui，其他系统请谨慎使用！\n本APP现已开源。您可以点击APP内的开发者头像联系我。\nApp已添加联网功能，为用户提高使用体验，但我们保证不会获取您的任何个人信息，只负责推送公告。\n本模块的某些选项可能会导致，系统的待机功耗增加、出现无法开机等问题，请做好万全准备。\n使用本模块即代表愿意承担一切后果，是否接受上述问题同意并使用本APP？</string>
+    <string name="other">其他选项</string>
+    <string name="root_warning">没有Root权限用个毛Hook</string>
+    <string name="Agree">同意</string>
+    <string name="Disagree">不同意</string>
+    <string name="discussions">其他</string>
+    <string name="fail">失败</string>
+
+    <string name="UnlockSetting">设置解锁</string>
+
+    <string name="powerkeeper">电量与性能</string>
+    <string name="Background_management">后台管理</string>
+    <string name="RestrictAlarm">禁用定时任务解冻</string>
+    <string name="Turn_off_cron_tasks">禁用Millet采用定时任务把QQ、微信、支付宝给解冻。</string>
+    <string name="Make_millet_stronger">使Millet更加激进</string>
+    <string name="ScreenClearApp">避免息屏后杀后台</string>
+    <string name="ScreenClearApp_tips">可和系统框架的选项同开</string>
+    <string name="AutoKillAPP">避免亮屏时杀后台</string>
+    <string name="BatteryOptimization">锁定电池优化</string>、
+    <string name="openBatteryOptimization">电池优化</string>
+    <string name="PowerKeeperCloud">禁止电量与性能下发部分云控</string>
+    <string name="powerkeeperhide">电量与性能隐藏调试界面</string>
+    <string name="PowerKeeperCloudview">电量与性能云控界面</string>
+
+    <string name="system">系统框架(谨慎开启)</string>
+    <string name="ShouldKillExcessiveProcesses">禁止检查停止活动</string>
+    <string name="BoostCameraIfNeeded">避免使用相机时杀后台</string>
+    <string name="Disablecachingapps">禁止停止后台受限和缓存的应用</string>
+    <string name="GameMemory">避免游戏时出现杀后台</string>
+    <string name="HandleAutoLockOff">避免息屏后杀后台</string>
+    <string name="HandleThermalKillProc">避免温度过高清理</string>
+    <string name="KillAdj">尽量避免杀死后台进程</string>
+    <string name="KillProcess">修改KillProcess尽力防止杀后台</string>
+    <string name="KillService">禁用部分Miui内存服务</string>
+    <string name="PerformIdleMaintenance">避免空闲时清理</string>
+    <string name="ShellKillAll">禁止通过Shell来杀死应用</string>
+    <string name="CheckBackgroundProcCompact">禁用检测后台进程紧凑</string>
+    <string name="IsInVisibleRange">禁用最近任务的非可见范围导致的杀后台</string>
+    <string name="NStartPressureMonitor">禁用内存压力监测器</string>
+
+    <string name="misound_tips">音质音效</string>
+    <string name="misound">音质音效</string>
+    <string name="Improve_sound_quality">提升音质音效</string>
+    <string name="increase_sampling_rate">提高音频采样率</string>
+    <string name="Harman">打开哈曼卡顿选项</string>
+    <string name="Turn_on_virtual_surround">打开虚拟环绕选项</string>
+    <string name="Surround_tips">如果自带此选项，那么打开后效果会更好。</string>
+    <string name="opensound">打开音质音效</string>
+    <string name="fail2">你的音质音效呢？</string>
+    <string name="misound_tips2">此APP因版本不同，可能会出现Hook失败、闪退等，此类Bug请勿反馈。</string>
+
+    <string name="ManagementMeasures">应用管理措施</string>
+    <string name="securitycenter">手机管家</string>
+    <string name="Memc">解锁全局动态画面补偿</string>
+    <string name="Memc_tips">仅部分有效机型支持</string>
+    <string name="Dsda">开启增强双卡双通</string>
+    <string name="Dsda_tips">需机型支持双卡双通</string>
+    <string name="Dfps">视频支持Dfps</string>
+    <string name="Ndds">游戏中禁用副卡</string>
+    <string name="Ndds_tips">进入游戏时将禁用副卡，以减少游戏中的数据分流，提升信号强度。</string>
+    <string name="ThemeHook">主题破解</string>
+    <string name="GameBoxVisionEnhanceUtils">解锁画面增强</string>
+
+    <string name="ApplicationJump">应用跳转</string>
+    <string name="Barrage_notification">弹幕通知</string>
+    <string name="Barrage_notification2">允许所有应用使用弹幕通知</string>
+    <string name="Barrage_notification3">允许全局显示弹幕通知</string>
+    <string name="settings">设置</string>
+    <string name="balanced_performance_mode">锁定游戏内均衡性能模式</string>
+    <string name="balanced_performance_mode_tips">锁定为性能还是均衡，根据你关闭此选项前游戏内的模式。</string>
+
+
+    <string name="AllFps">显示全部刷新率档位</string>
+    <string name="high_precision_GPS">解锁高精度位置服务</string>
+    <string name="Need_hardware_support">需要硬件支持</string>
+    <string name="conflict">请勿同时开启</string>
+    <string name="NoveltyHaptic">新版触感震动强度</string>
+    <string name="Old_NoveltyHaptic">旧版触感震动强度</string>
+    <string name="NoveltyHaptic_tips">实测比老版的震动强度弱不少，但调整比老版方便。</string>
+
+    <string name="OtherPage">更多</string>
+    <string name="SystemUi">系统界面</string>
+    <string name="HyperOS">去除水印</string>
+    <string name="ChargeTips">隐藏锁屏中充电的Tips</string>
+    <string name="ControlCenterStyle">恢复旧版控制中心</string>
+    <string name="DarkModeForAllApps">强制应用适配深色模式</string>
+    <string name="DarkModeForAllApps_tips">取色可能会出现问题</string>
+    <string name="SaveAsPng">保存截图格式为PNG</string>
+    <string name="SaveAsPng_tips">因强制转换，可能会出现某些软件无法打开图片等问题。</string>
+    <string name="AodSummary">息屏显示在暗光下解除时间限制</string>
+    <string name="speed_mode_enable">极致模式</string>
+    <string name="performance">打开骁龙隐藏性能模式</string>
+
+    <string name="Theme">主题壁纸</string>
+    <string name="AddLocalTheme">破解添加本地主题</string>
+    <string name="ProductBought">主题破解</string>
+    <string name="more">更多</string>
+    <string name="prompt">感谢支持</string>
+    <string name="zfb">支付宝</string>
+    <string name="wx">微信</string>
+
+    <string name="ReboootSystemUi">重启系统界面</string>
+    <string name="restart_all_scope_tips">确定重启全部作用域？</string>
+    <string name="reboot_complete">已经帮你重启完了捏♪</string>
+    <string name="restart_scope">重启作用域</string>
+    <string name="reboot">重启</string>
+    <string name="restart_scope_tips">记得重启完作用域在打开</string>
+    <string name="reboot_system">重启系统</string>
+    <string name="reboot_tips">确定重启系统？</string>
+    <string name="backup">备份模块设置</string>
+    <string name="recovery">恢复模块设置</string>
+    <string name="cancel">取消</string>
+    <string name="Close_option_to_reboot">默认为关，此选项如有修改需重启。</string>
+    <string name="ResetModule">重置模块</string>
+    <string name="ResetModuleDialogTips">会清除你的所有选项</string>
+    <string name="ResetModuleDialog">重置模块</string>
+    <string name="ResetSuccess">重置成功</string>
+    <string name="SafeMode">安全模式</string>
+    <string name="HideLauncherIcon">隐藏桌面图标</string>
+    <string name="about_module">关于模块</string>
+    <string name="about_module_summary">查看模块相关信息</string>
+
+    <string name="bilibili">bilibili</string>
+    <string name="developer">开发者</string>
+    <string name="author">作者：SetoSkins</string>
+    <string name="author_tips">希望有一天，你还能再想起我</string>
+    <string name="quote">Thank List</string>
+    <string name="EggGame">彩蛋加密</string>
+    <string name="copy_available_information">复制目前可用信息</string>
+    <string name="Telegram">Telegram 群组</string>
+    <string name="donate_money">♪捐赠♪</string>
+    <string name="donate_money_tips2">正在计划做捐赠名单！</string>
+    <string name="forum">菜卡玩机</string>
+    <string name="OS">Overlapping Sound</string>
+
+    <string name="monet_theme">自定义系统主题色</string>
+    <string name="your_theme_accent_color">系统强调色</string>
+    <string name="your_theme_neutral_color">系统中性色</string>
+    <string name="your_theme_style">取色风格</string>
+    <string name="current">当前值：</string>
+    <string name="Monet_tips">莫奈取色</string>
+    <string name="Monet">自定义系统强调色</string>
+    <string name="Monet2">自定义莫奈取色风格</string>
+    <string name="RotationButton">Android13原生旋转按钮</string>
+    <string name="MIUILOGO">开机自启动完美图标</string>
+    <string name="OffCache">保留更多应用缓存进程</string>
+    <string name="ProcessRestrictions">解除后台最大32进程限制</string>
+    <string name="Test">解除内网限制</string>
+    <string name="Test_tips">温控开发人员调试界面</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Remind">提醒</string>
+    <string name="dialog">觉得模块好用的话，可以给还在上学的Seto捐点米嘛www</string>
+    <string name="No">不可以</string>
+    <string name="Yes">好吧</string>
+</resources>

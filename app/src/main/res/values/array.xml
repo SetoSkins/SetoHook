@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.miui.powerkeeper</item>
+        <item>com.miui.misound</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.xiaomi.barrage</item>
+        <item>com.miui.screenshot</item>
+        <item>com.miui.aod</item>
+        <item>com.android.settings</item>
+        <item>com.xiaomi.misettings</item>
+        <item>com.android.systemui</item>
+<!--        <item>com.android.thememanager</item>-->
+        <item>android</item>
+        <item>com.android.camera</item>
+    </string-array>
+</resources>
